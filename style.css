@@ -1,0 +1,19 @@
+form input, form textarea {
+    width: 100%;
+    max-width: 420px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+button {
+    background: #0b3c5d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background: #1d6fa5;
+}
